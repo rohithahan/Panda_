@@ -25,7 +25,7 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Mustafa1p/DDOS-Telegram-BOT.git
+    git clone https://github.com/rohithahan/Panda_.git
     ```
 
 2. Obtain your Telegram API token and replace `YOUR_TOKEN_HERE` in the script with your actual token.
